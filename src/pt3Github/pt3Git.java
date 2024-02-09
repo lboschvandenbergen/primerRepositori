@@ -14,7 +14,7 @@ public class pt3Git {
 
 		System.out.println("4a modificació Git Branca2");
 		
-		System.out.println("4a modificació d'eclipse a github");
+		System.out.println("5a modificació d'eclipse a github");
 		
 	}
 
