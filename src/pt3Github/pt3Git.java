@@ -10,6 +10,8 @@ public class pt3Git {
 
 		System.out.println("2a modificació GitHub");
 		
+		System.out.println("3a modificació Git");
+		
 	}
 
 }
